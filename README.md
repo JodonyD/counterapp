@@ -15,8 +15,6 @@ A basic web utility built with HTML, CSS, and JavaScript that allows users to in
 - JavaScript (ES6+)
 
 ## How to Run Locally
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/simple-counter-app.git
+1. Clone the repo
 2. Naviagte to the folder
 3. Run
